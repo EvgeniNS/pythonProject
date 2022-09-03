@@ -40,7 +40,7 @@ print('----')
 print(letters[4:5] + letters[21:22] + letters[6:7] + letters[4:5] + letters[13:14] + letters[8:9])
 
 print('----')
-                                                            #its the letter 4:e from the start   -   V |\ V  -  its the amount of the letter from the end to start if it was like ,g:-20 ,f:-21 ,e:-22 ,d:-23 ,c:-24 ,b:-25 , a:-26 and its end on z:-1 not on 0
+#-------------------------------------------------------------------its the letter 4:e from the start   -   V |\ V  -  its the amount of the letter from the end to start if it was like ,g:-20 ,f:-21 ,e:-22 ,d:-23 ,c:-24 ,b:-25 , a:-26 and its end on z:-1 not on 0
 print(letters[-22] + letters[-5] + letters[-20] + letters[-22] + letters[-13] + letters[-18])    # im doing 4 - 26 = -22 and ex...
 
 print('----')
