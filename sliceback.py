@@ -8,13 +8,16 @@ print("----")
 
 backwardss = letters[-10:-13:-1]
 print(backwardss)
+print(letters[16:13:-1])
 
 print("----")
 
 backwardsss = letters[-22::-1]    # you can put -27 in [-22:-27:-1] and get the same result
 print(backwardsss)
+print(letters[4::-1])
 
 print("----")
 
 backwardssss = letters[:-9:-1]
 print(backwardssss)
+print(letters[:17:-1])
