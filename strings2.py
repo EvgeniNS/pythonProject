@@ -23,3 +23,7 @@ print(parrot[:6] + parrot[6:])
 print('----')
 
 print(parrot[ : ])
+
+print('----')
+
+letters = "abcdefghijklmnopqrstuvwxyz"
