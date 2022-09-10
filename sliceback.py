@@ -21,3 +21,11 @@ print("----")
 backwardssss = letters[:-9:-1]
 print(backwardssss)
 print(letters[:17:-1])
+print(letters[:-9:-1])
+
+print("----")
+
+print(letters[-4:])
+print(letters[-1:])
+print(letters[:1])
+print(letters[0]) #if the letters will be empty it will give an error becuse he trying to search 0 that mean a and [:1] will work better becuse it will not give an error becuse he is serching not a specipic index like 0
