@@ -21,5 +21,9 @@ print(aage)
 print(type(aage))
 
 age_in_words = "2 Years"
-print(name + " is " + age + " years old")
+print(name + " is " + "age" + " years old") # if you will just put age without the "" its will give you n error
+print(type(age))
+
+e_in_words = "2 Years"
+print(name + f" is {age} years old") # if you will add f to start of the "" it will give you an option to add
 print(type(age))
