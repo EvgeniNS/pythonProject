@@ -21,9 +21,13 @@ print(aage)
 print(type(aage))
 
 age_in_words = "2 Years"
-print(name + " is " + "age" + " years old") # if you will just put age without the "" its will give you n error
+print(name + " is " + "age" + " years old") # if you will just put age without the "" its will give you n error |\ you can see in the result that he didnt understend the repfildes age
 print(type(age))
 
 e_in_words = "2 Years"
-print(name + f" is {age} years old") # if you will add f to start of the "" it will give you an option to add
+print(name + f" is {age} years old") # if you will add f to start of the "" it will give you an option to add {} repFields in the string without and error or using +
 print(type(age))
+
+print(f"Pi is approximately {22 / 7:12.50f}")
+Pi = 22 / 7
+print(f"Pi is approximately {Pi:12.50f}")
