@@ -22,7 +22,7 @@ print(anothersplitstring)
 
 print(r"C:\Users\timbuchalka\notes.txt")
 print("C:\\Users\\timbuchalka\\notes.txt")
-print(r"C:\Users\timbuchalka\notes.txt")
+print("C:\Users\timbuchalka\notes.txt")
 
 aanothersplitstring = """This string has been \
 Split over \
@@ -30,3 +30,6 @@ several \
 lines"""
 
 print(aanothersplitstring)
+
+print("The boy said he's is very \"funny\"")
+
